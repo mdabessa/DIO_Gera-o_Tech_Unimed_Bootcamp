@@ -15,10 +15,10 @@ The package image_processing is used to:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing592
 
 ```bash
-pip install image_processing
+pip install -i https://test.pypi.org/simple/ image-processing592
 ```
 
 ## Author

@@ -8,8 +8,8 @@ with open('requirements.txt', 'r') as f:
     requirements = f.read().splitlines()
 
 setup(
-    name='image_processing',
-    version='0.0.1',
+    name='image_processing592',
+    version='0.0.2',
     author='Matheus',
     description='Image Processing Package using Scikit-Image',
     long_description=page_description,
